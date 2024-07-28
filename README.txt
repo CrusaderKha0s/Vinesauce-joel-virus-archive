@@ -1,3 +1,10 @@
+______ _____  ___ _________  ___ _____ 
+| ___ \  ___|/ _ \|  _  \  \/  ||  ___|
+| |_/ / |__ / /_\ \ | | | .  . || |__  
+|    /|  __||  _  | | | | |\/| ||  __| 
+| |\ \| |___| | | | |/ /| |  | || |___ 
+\_| \_\____/\_| |_/___/ \_|  |_/\_____|
+
 this will be updated regularly (if i dont forget to do it)
 
 this is a collection of malware featured in joel's destructions
