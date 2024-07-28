@@ -23,3 +23,9 @@ https://x.com/pitsofhell
 
 bitcoin wallet :bc1q9zhe370a918xrjr5t4vywngkt5k6nxcsad270g
 
+     |"|      
+    _|_|_     
+    (o o)     
+ooO--(_)--Ooo-
+kha0s wuz here
+
